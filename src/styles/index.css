@@ -38,3 +38,14 @@ h4 {
   display: flex;
   flex-wrap: wrap;
 }
+.onda1{
+  position:absolute;
+  bottom:-28px;
+}
+.footer{
+  position: relative;
+}
+.onda2{
+  position: absolute;
+  top:0px;
+}

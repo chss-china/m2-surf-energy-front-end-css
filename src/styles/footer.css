@@ -21,3 +21,10 @@
 .footer-content p {
   color: var(--color-grey-3);
 }
+.footer{
+  position: relative;
+}
+.content-box{
+  position: sticky;
+  bottom:30px;
+}
